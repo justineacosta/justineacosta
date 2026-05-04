@@ -167,7 +167,7 @@
 
 ---
 
-## **⭐ Featured Project**
+## **⭐ Portfolio Highlights**
 
 <table border="0">
   <tr>
