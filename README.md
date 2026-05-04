@@ -50,6 +50,16 @@
 
 ---
 
+## **💎 Key Achievements**
+### **⚡ Immediate Value**
+- ⚡ Built full-stack platforms with multi-role systems (5+ roles)
+- 🔐 Implemented secure auth systems (JWT, OAuth, RBAC, Redis blacklist)
+- 🚀 Delivered apps with 95+ Lighthouse performance scores
+- 📦 Designed production-ready architectures (Docker + NGINX + CI/CD-ready)
+- 🔄 Integrated real-time & async workflows (webhooks, caching, queues)
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
 <h3 align="center">🎨 Frontend</h3>
