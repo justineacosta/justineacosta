@@ -51,7 +51,6 @@
 ---
 
 ## **💎 Key Achievements**
-### **⚡ Immediate Value**
 - ⚡ Built full-stack platforms with multi-role systems (5+ roles)
 - 🔐 Implemented secure auth systems (JWT, OAuth, RBAC, Redis blacklist)
 - 🚀 Delivered apps with 95+ Lighthouse performance scores
