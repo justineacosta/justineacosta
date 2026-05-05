@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Shimmerew23&style=flat-square&color=1A237E" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=justineacosta&style=flat-square&color=1A237E" alt="Profile Views"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2e7d32?style=flat-square" alt="Open to Collab."/>
   &nbsp;
@@ -193,7 +193,7 @@
       <br/>
         <p>
           <div>
-            <a href="https://github.com/Shimmerew23/theCartLy_eCommerce_Platform">
+            <a href="https://github.com/justineacosta/theCartLy_eCommerce_Platform">
               <img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white"/>
             </a>
           </div>
@@ -370,15 +370,15 @@ theCartLy/
 ## **📊 GitHub Stats**
 
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Shimmerew23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A237E&icon_color=635BFF&text_color=ffffff&count_private=true" alt=""/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=justineacosta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A237E&icon_color=635BFF&text_color=ffffff&count_private=true" alt=""/>
   &nbsp;&nbsp;
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shimmerew23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A237E&text_color=ffffff&langs_count=8" alt=""/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justineacosta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A237E&text_color=ffffff&langs_count=8" alt=""/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shimmerew23&theme=tokyonight&hide_border=true&background=0D1117&stroke=1A237E&ring=635BFF&fire=635BFF&currStreakLabel=ffffff&sideLabels=ffffff&dates=999999" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=justineacosta&theme=tokyonight&hide_border=true&background=0D1117&stroke=1A237E&ring=635BFF&fire=635BFF&currStreakLabel=ffffff&sideLabels=ffffff&dates=999999" alt="GitHub Streak"/>
 </div>
 
 <br/>
@@ -399,7 +399,7 @@ theCartLy/
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-justineacosta.vercel.app-1A237E?style=for-the-badge&logo=vercel&logoColor=white)](https://justineacosta.vercel.app)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Shimmerew23-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shimmerew23)
+[![GitHub](https://img.shields.io/badge/GitHub-justineacosta-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/justineacosta)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-justinesam023-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/justinesam023)
 &nbsp;
