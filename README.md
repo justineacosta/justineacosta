@@ -370,9 +370,9 @@ theCartLy/
 ## **📊 GitHub Stats**
 
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.herokuapp/api?username=shimmerew23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A237E&icon_color=635BFF&text_color=ffffff&count_private=true" alt="Github Stats"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=shimmerew23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A237E&icon_color=635BFF&text_color=ffffff&count_private=true" alt="Github Stats"/>
   &nbsp;&nbsp;
-  <img height="180px" src="https://github-readme-stats.herokuapp/api/top-langs/?username=shimmerew23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A237E&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimmerew23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A237E&text_color=ffffff&langs_count=8" alt="Top Languages"/>
 </div>
 
 <br/>
