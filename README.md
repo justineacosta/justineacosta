@@ -375,6 +375,9 @@ theCartLy/
   <img height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=justineacosta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A237E&text_color=ffffff&langs_count=8" alt="Top Languages"/>
 </div>
 
+<img src="https://github-readme-stats.vercel.app/api?username=justineacosta&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justineacosta&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+
 <br/>
 
 <div align="center">
