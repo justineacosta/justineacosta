@@ -370,15 +370,48 @@ theCartLy/
 ## **📊 GitHub Stats**
 
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=justineacosta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A237E&icon_color=635BFF&text_color=ffffff&count_private=true" alt="GitHub Stats"/> 
-  &nbsp;&nbsp;
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justineacosta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A237E&text_color=ffffff&langs_count=8" alt="Top Languages"/> 
+
+  <!-- Main Stats (Stable Mirror) -->
+  <img height="180px"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=justineacosta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A237E&icon_color=635BFF&text_color=ffffff&count_private=true&include_all_commits=true&cache_seconds=86400" />
+
+  <!-- Top Languages (Same Stable Mirror) -->
+  <img height="180px"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=justineacosta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A237E&text_color=ffffff&langs_count=8&cache_seconds=86400" />
+
 </div>
-  
+
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=justineacosta&theme=tokyonight&hide_border=true&background=0D1117&stroke=1A237E&ring=635BFF&fire=635BFF&currStreakLabel=ffffff&sideLabels=ffffff&dates=999999" />
+
+  <!-- Streak Stats (Maintained Service) -->
+  <img height="180px"
+       src="https://streak-stats.demolab.com?user=justineacosta&theme=tokyonight&hide_border=true&background=0D1117&stroke=1A237E&ring=635BFF&fire=635BFF&currStreakLabel=ffffff&sideLabels=ffffff&dates=999999" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <!-- Activity Graph (Very Stable) -->
+  <img width="95%"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=justineacosta&theme=tokyo-night&bg_color=0D1117&color=635BFF&line=1A237E&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <!-- Backup Stats (Fallback Provider) -->
+  <img width="49%"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=justineacosta&theme=tokyonight" />
+
+  <img width="49%"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=justineacosta&theme=tokyonight" />
+
 </div>
 
 <br/>
