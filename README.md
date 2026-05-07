@@ -215,7 +215,6 @@
               <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
               <img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white"/> 
               <img src="https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=black" />
-              <img src="https://img.shields.io/badge/Helmet-000000?style=flat-square&logo=helmet&logoColor=white"/>
               <img src="https://img.shields.io/badge/Morgan-Request_Logging-000000?style=flat-square&logo=express&logoColor=white" />
               <img src="https://img.shields.io/badge/Winston-Structured_Logging-231F20?style=flat-square&logo=nodedotjs&logoColor=white" />
               <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
@@ -223,7 +222,6 @@
               <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
               <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
               <img src="https://img.shields.io/badge/Render-1F1F1F?style=flat-square&logo=render&logoColor=white" />
-              <img src="https://img.shields.io/badge/Vercel-0D47A1?style=flat-square&logo=vercel&logoColor=white"/>
             </p>
           </div>
         </p>
