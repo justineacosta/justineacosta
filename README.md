@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=justineacosta&style=flat-square&color=1A237E" alt="Profile Views"/>
+  <!-- <img src="https://komarev.com/ghpvc/?username=justineacosta&style=flat-square&color=1A237E" alt="Profile Views"/> -->
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2e7d32?style=flat-square" alt="Open to Collab."/>
   &nbsp;
