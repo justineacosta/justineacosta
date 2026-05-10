@@ -368,9 +368,9 @@ theCartLy/
 ## **📊 GitHub Stats**
 
 <div align="center"> 
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=justineacosta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A237E&icon_color=635BFF&text_color=ffffff&count_private=true" alt="GitHub Stats"/> 
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=justineacosta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A237E&icon_color=635BFF&text_color=ffffff&count_private=true" alt=""/> 
   &nbsp;&nbsp; 
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justineacosta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A237E&text_color=ffffff&langs_count=8" alt="Top Languages"/> 
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justineacosta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A237E&text_color=ffffff&langs_count=8" alt=""/> 
 </div> 
 
 <br/> 
